@@ -30,14 +30,12 @@ body {
   height: 60px;
 }
 .title {
-  font-family: 'Architects Daughter', cursive;
   font-size: 35px;
   padding: 12px;
 }
 .text {
   padding: 12px;
   font-size: 18px;
-  font-family: 'Architects Daughter', cursive;
   background-color: white;
 }
 .inputs {
@@ -46,7 +44,6 @@ body {
   padding: 20px;
   font-size: 25px;
   align-content: center;
-  font-family: 'Architects Daughter', cursive;
  
 }
 .button {
